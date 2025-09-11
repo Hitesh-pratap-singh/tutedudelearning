@@ -4,4 +4,8 @@ Assignment1:
 
 Assignment2:  
     Task1: Check if a number is even or odd.  
-    Task2: Sum of integers 1 to 50 Using a Loop
+    Task2: Sum of integers 1 to 50 Using a Loop.  
+
+Assignment3:  
+    Task1: Calculate Factorial Using a function.  
+    Task2: Using the Math Module for Calculation.  
