@@ -8,4 +8,8 @@ Assignment2:
 
 Assignment3:  
     Task1: Calculate Factorial Using a function.  
-    Task2: Using the Math Module for Calculation.  
+    Task2: Using the Math Module for Calculation.
+
+Assignment4:  
+    Task1: Read a file and handle errors.  
+    Task2: Write and append data to file.   
