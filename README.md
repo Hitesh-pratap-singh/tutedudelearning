@@ -13,3 +13,7 @@ Assignment3:
 Assignment4:  
     Task1: Read a file and handle errors.  
     Task2: Write and append data to file.   
+
+Assignmetn5:  
+    Task1: Create a Dictionary of Students Marks.  
+    Task2: Demonstrate List Slicing.  
